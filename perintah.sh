@@ -1,5 +1,6 @@
 
 cd outputskripsi
+rm -rf tricluster1
 mkdir tricluster1
 cd ..
 
