@@ -1,12 +1,12 @@
 
 cd outputskripsi
-rm -rf tricluster1
-mkdir tricluster1
+rm -rf simulasi_1
+mkdir simulasi_1
 cd ..
 
-mv gen.txt outputskripsi/tricluster1/gen.txt
-mv waktu.txt outputskripsi/tricluster1/waktu.txt
-mv kondisi.txt outputskripsi/tricluster1/kondisi.txt
+mv gen.txt outputskripsi/simulasi_1/gen.txt
+mv waktu.txt outputskripsi/simulasi_1/waktu.txt
+mv kondisi.txt outputskripsi/simulasi_1/kondisi.txt
 
 cd outputskripsi
 
