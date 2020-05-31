@@ -7,7 +7,7 @@ cd ..
 mv gen.txt outputskripsi/simulasi_2/gen.txt
 mv waktu.txt outputskripsi/simulasi_2/waktu.txt
 mv kondisi.txt outputskripsi/simulasi_2/kondisi.txt
-mv msr.txt outputskripsi/simulasi_1/msr.txt
+mv msr.txt outputskripsi/simulasi_2/msr.txt
 
 cd outputskripsi
 
